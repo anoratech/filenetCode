@@ -1,5 +1,8 @@
 package com.mycompany.app;
 
+import com.filenet.api.collection.RepositoryRowSet;
+import com.filenet.api.core.ObjectStore;
+
 /**
  * Hello world!
  *
